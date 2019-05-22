@@ -9,7 +9,9 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "brain.js": "^1.6.1",
     "core-js": "^2.6.5",
+    "machinelearn": "^2.1.2",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
